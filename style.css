@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chocolate;
+}
+
+main {
+    padding: 1rem;
+    background-color: darkgoldenrod;
+}
+
+img {
+    margin-left: 120px;
+    border-radius: 50px;
+    border: 2px solid darkgoldenrod;
+}
